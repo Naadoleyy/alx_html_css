@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="/">
+                <img src="./images/logo.png" height="29" width="167px" alt="SmileSchool Logo">
+            </a>
+            <nav>
+                <ul class="list-reset">
+                    <li>
+                        <a href="#">Courses</a>
+                    </li>
+                    <li>
+                        <a href="#">Pricing</a>
+                    </li>
+                    <li>
+                        <a href="#">Login</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section id="hero">
+            <div class="container">
+                <div>
+                    <div>
+                        <h1>Get Schooled</h1>
+                        <div>
+                            <span>Smiles</span>
+                            <span>Grin</span>
+                            <span>Laugh</span>
+                        </div>
+                    </div>
+                    <a class="btn-link" href="#">Register for free</a>
+                </div>
+                <div>
+                    <h2><span style="color: #C271FF;font-weight: 700;">Learn</span> from the pros</h2>
+                    <ul class="list-reset">
+                        <li>
+                            <img src="./images/1.png" height="150" width="150" alt="User image">
+                            <p>Phillip Massey</p>
+                            <p>« Smile of the year »</p>
+                            <span>2018 - 2019</span>
+                        </li>
+                        <li>
+                            <img src="./images/3.png" height="150" width="150" alt="User image">
+                            <p>Nannie Lawrence</p>
+                            <p>Best « little smile »</p>
+                            <span>2017</span>
+                        </li>
+                        <li>
+                            <img src="./images/2.png" height="150" width="150" alt="User image">
+                            <p>Bruce Walters</p>
+                            <p>Best « Friend Smile »</p>
+                            <span>live performance 2019</span>
+                        </li>
+                        <li>
+                            <img src="./images/4.png" height="150" width="150" alt="User image">
+                            <p>Henry Hughes</p>
+                            <p>« 24h smiles » winner</p>
+                            <span>2016 - 2019</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="testimonial">
+            <div class="container">
+                <div class="left">
+                    <img src="./images/5.png" height="160" alt="User image">
+                </div>
+                <div class="right">
+                    <p>« Those tutorials are concise and go straight to the point. I can’t think of a better place to learn smiling. And it’s so fun!</p>
+                    <div>
+                        <p>Person Name</p>
+                        <span>weather presenter</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="tutorials">
+            <div class="container" style="max-width: 90%;">
+                <h2 class="section-title">Most <span style="color: #C271FF;font-weight: 700;">popular</span> tutorials</h2>
+                <ul class="list-reset">
+                    <li>
+                        <div>
+                            <img src="./images/9.png" height="154" width="255" alt="User image">
+                            <img src="./images/play.png" alt="Play icon">
+                        </div>
+                        <div>
+                            <h3>Diagonal Smile</h3>
+                            <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+                            <div>
+                                <div class="author">
+                                    <img src="./images/1.png" height="30" width="30" alt="User image">
+                                    <span style="color: #C271FF;font-size: 14px;line-height: 27px;font-weight: 600;">Phillip Massey</span>
+                                </div>
+                                <div class="ratings">
+                                    <img src="./images/rating.png" width="107" height="15" alt="4 star rating">
+                                    <span>8 min</span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            <img src="./images/7.png" height="154" width="255" alt="User image">
+                            <img src="./images/play.png" alt="Play icon">
+                        </div>
+                        <div>
+                            <h3>Sad Smile</h3>
+                            <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+                            <div>
+                                <div class="author">
+                                    <img src="./images/1.png" height="30" width="30" alt="User image">
+                                    <span style="color: #C271FF;font-size: 14px;line-height: 27px;font-weight: 600;">Phillip Massey</span>
+                                </div>
+                                <div class="ratings">
+                                    <img src="./images/rating.png" width="107" height="15" alt="4 star rating">
+                                    <span>8 min</span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            <img src="./images/8.png" height="154" width="255" alt="User image">
+                            <img src="./images/play.png" alt="Play icon">
+                        </div>
+                        <div>
+                            <h3>Natural Smile</h3>
+                            <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+                            <div>
+                                <div class="author">
+                                    <img src="./images/1.png" height="30" width="30" alt="User image">
+                                    <span style="color: #C271FF;font-size: 14px;line-height: 27px;font-weight: 600;">Phillip Massey</span>
+                                </div>
+                                <div class="ratings">
+                                    <img src="./images/rating.png" width="107" height="15" alt="4 star rating">
+                                    <span>8 min</span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            <img src="./images/6.png" height="154" width="255" alt="User image">
+                            <img src="./images/play.png" alt="Play icon">
+                        </div>
+                        <div>
+                            <h3>Happy Smile</h3>
+                            <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+                            <div>
+                                <div class="author">
+                                    <img src="./images/1.png" height="30" width="30" alt="User image">
+                                    <span style="color: #C271FF;font-size: 14px;line-height: 27px;font-weight: 600;">Phillip Massey</span>
+                                </div>
+                                <div class="ratings">
+                                    <img src="./images/rating.png" width="107" height="15" alt="4 star rating">
+                                    <span>8 min</span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="membership">
+            <div class="container">
+                <h2 class="section-title"><span style="color: #C271FF;font-weight: 700;">Free</span> membership</h2>
+                <ul class="list-reset">
+                    <li>
+                        <img src="./images/smile.png" height="35" width="43" alt="Smile image">
+                        <div>
+                            <h3>Lorem ipsum</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./images/smile.png" height="35" width="43" alt="Smile image">
+                        <div>
+                            <h3>Lorem ipsum</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./images/smile.png" height="35" width="43" alt="Smile image">
+                        <div>
+                            <h3>Lorem ipsum</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./images/smile.png" height="35" width="43" alt="Smile image">
+                        <div>
+                            <h3>Lorem ipsum</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </li>
+                </ul>
+                <div style="display: flex;">
+                    <a class="btn-link" href="#" style="margin: auto;">Register for free</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="faq">
+            <div class="container">
+                <h2>F.A.Q.</h2>
+                <ul class="list-reset">
+                    <li>
+                        <h3>How does this work?</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </li>
+                    <li>
+                        <h3>How does this work?</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </li>
+                    <li>
+                        <h3>How does this work?</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </li>
+                    <li>
+                        <h3>How does this work?</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <div>
+                <a href="/">
+                    <img src="./images/logo.png" width="169" height="30" alt="Logo" srcset="">
+                </a>
+                <ul class="list-reset">
+                    <li>
+                        <img src="./images/facebook.png" height="30" width="30" alt="Facebook">
+                    </li>
+                    <li>
+                        <img src="./images/twitter.png" height="30" width="30" alt="Twitter">
+                    </li>
+                    <li>
+                        <img src="./images/Instagram.png" height="30" width="30" alt="Instagram">
+                    </li>
+                </ul>
+            </div>
+            <p style="text-align: center;font-size: 12px;font-weight: 400;line-height: 15.08px;opacity: 0.35;">&copy;smileschool 2020</p>
+        </div>
+    </footer>
+</body>
+</html>
